@@ -1,1 +1,1 @@
-# macOS-SimpleBeaconSender
+# macOS-BeaconCenter
